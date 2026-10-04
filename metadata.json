@@ -1,0 +1,6 @@
+{
+  "name": "NURIA",
+  "description": "Prayer • Quran • Qibla - Islamic companion with prayer times, Quran, Qibla compass, Dua, Azkar, Tasbih, and Islamic calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
